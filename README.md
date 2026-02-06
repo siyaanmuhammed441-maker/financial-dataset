@@ -1,14 +1,14 @@
 # financial-dataset
 
-📊 Financial Dataset Analysis Dashboard
-📌 Project Overview
+ Financial Dataset Analysis Dashboard
+
 
 This project presents an interactive Financial Data Analysis Dashboard created using a financial dataset.
 The main objective is to analyze sales performance, profit distribution, product performance, and customer segments through clear visualizations and insights.
 
 The dashboard helps stakeholders understand trends in sales, units sold, profit margins, and product demand across different countries and time periods.
 
-🎯 Objectives
+ Objectives
 
 Analyze sales distribution by country
 
@@ -22,7 +22,7 @@ Compare gross sales and total sales
 
 Identify top-performing products
 
-📂 Dataset Information
+ Dataset Information
 
 The dataset contains financial and sales-related information such as:
 
@@ -44,7 +44,7 @@ Month Name
 
 Year
 
-📊 Dashboard Visualizations
+ Dashboard Visualizations
 
 The dashboard includes the following charts:
 
@@ -72,7 +72,7 @@ Sum of Units Sold by Year
 
 Count of Gross Sales vs Count of Sales by Month
 
-📈 Key Insights
+ Key Insights
 
 Sales increased significantly from 2013 to 2014
 
@@ -84,7 +84,7 @@ Products like Paseo had higher sale counts
 
 Profit distribution varied across products
 
-🛠️ Tools & Technologies Used
+ Tools & Technologies Used
 
 Power BI (Data Visualization)
 
@@ -94,7 +94,7 @@ Data Cleaning & Transformation
 
 Dashboard Design
 
-🚀 How to Use
+ How to Use
 
 Download or clone this repository
 
@@ -105,14 +105,14 @@ Open the Power BI file (.pbix)
 
 Explore the dashboard visuals and insights
 
-📷 Dashboard Preview
+ Dashboard Preview
 
 (Add your dashboard screenshots here)
 
-👨‍💻 Author
+Author
 
 Siyan
 
-📜 License
+ License
 
 This project is created for educational and analytical purposes.
